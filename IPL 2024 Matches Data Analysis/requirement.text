@@ -1,1 +1,4 @@
-
+Python version:        3.11.5
+pandas version:        2.2.2
+seaborn version:       0.13.2
+matplotlib version:    3.7.2
